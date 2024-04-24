@@ -6,6 +6,7 @@ function isPalindrome(word) {
 
 /* 
   Add your pseudocode here
+  
   Create a Palindrome function 
   Split the word into an array of characters
   Reverse the array
@@ -15,6 +16,7 @@ function isPalindrome(word) {
 
 /*
   Add written explanation of your solution here
+
   So we passed the word as a parameter,returns word as true if it's comparison equals to the reveresed word:
   So The word value is initially 'split' into an array then we 'reverse' the value inside the array and lastly 'join' the array back into a word for our compariosn
 
